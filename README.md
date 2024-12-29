@@ -147,8 +147,9 @@ To ensure the application functions as expected, follow these steps to set up an
         
         ============================== 5 passed in 0.42s ==============================
         ```
-   	~(￣▽￣〜)    ---   (〜￣▽￣)〜
-        ![for Ayana](images/test_ayana.png "for Ayana")
+	![for Ayana](images/test_ayana.png "for Ayana")
+
+	(〜￣▽￣)〜
         
     - Failed test run:
         
