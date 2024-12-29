@@ -1,4 +1,4 @@
-# Llama Chatbot with Streamlit, Ollama, and ChromaDB (〜￣▽￣)〜
+# Llama Chatbot with Streamlit, Ollama, and ChromaDB(〜￣▽￣)〜
 
 A chatbot application powered by Streamlit for browser-based interaction, Ollama for LLM integration, and ChromaDB as a vector store for storing queries and embeddings.
 
