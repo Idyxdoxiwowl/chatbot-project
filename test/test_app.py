@@ -1,8 +1,12 @@
 import json
 import pytest
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from app import get_response
 
-with open("test/test_data.json", "r") as f:
+with open(os.path.join(os.path.dirname(__file__), "test_data.json"), "r") as f:
     test_data = json.load(f)
 
 @pytest.mark.parametrize("test_case", test_data["tests"])
