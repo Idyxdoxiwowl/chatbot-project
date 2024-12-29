@@ -56,7 +56,7 @@ Follow the steps below to set up the project:
 
 ## Examples
 
-#### Chat Interaction
+### Chat Interaction
 
 1. Type a message in the input field (e.g., "What is AI?") and click "Send."
 2. The bot responds with a detailed answer.
@@ -64,7 +64,7 @@ Follow the steps below to set up the project:
 
 ![Chat Interaction](images/chat_interaction.png "Chat Interaction")
 
-#### Searching Chat History
+### Searching Chat History
 
 1. Enter a search query in the "Search messages or embeddings" field in the sidebar.
 2. Click "Search."
@@ -72,12 +72,12 @@ Follow the steps below to set up the project:
 
 ![Searching Chat History](images/query_search.png "Searching Chat History")
 
-#### Viewing Embeddings
+### Viewing Embeddings
 
 1. Expand the "Embeddings" section in the sidebar.
 2. View detailed embeddings for user queries and bot responses.
 
-
+![Viewing Embeddings](images/embenddings.png "Viewing Embeddings")
 
 ## Features
 
