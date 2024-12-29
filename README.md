@@ -62,6 +62,8 @@ Follow the steps below to set up the project:
 2. The bot responds with a detailed answer.
 3. Both the query and response are stored as embeddings in ChromaDB.
 
+![Chat Interaction](images/chat_interaction.png "Chat Interaction")
+
 #### Searching Chat History
 
 1. Enter a search query in the "Search messages or embeddings" field in the sidebar.
