@@ -147,8 +147,9 @@ To ensure the application functions as expected, follow these steps to set up an
         
         ============================== 5 passed in 0.42s ==============================
         ```
+   	~(￣▽￣〜)    ---   (〜￣▽￣)〜
         ![for Ayana](images/test_ayana.png "for Ayana")
-        ![for Dariya](images/test_dariya.png "for Dariya")
+        
     - Failed test run:
         
         ```
@@ -166,7 +167,7 @@ To ensure the application functions as expected, follow these steps to set up an
         
         ============================ 1 failed, 4 passed ===============================
         ```
-        
+        ![for Dariya](images/test_dariya.png "for Dariya") 
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
