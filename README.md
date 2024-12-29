@@ -70,10 +70,14 @@ Follow the steps below to set up the project:
 2. Click "Search."
 3. View matching results retrieved from ChromaDB.
 
+![Searching Chat History](images/query_search.png "Searching Chat History")
+
 #### Viewing Embeddings
 
 1. Expand the "Embeddings" section in the sidebar.
 2. View detailed embeddings for user queries and bot responses.
+
+
 
 ## Features
 
@@ -143,8 +147,8 @@ To ensure the application functions as expected, follow these steps to set up an
         
         ============================== 5 passed in 0.42s ==============================
         ```
-        ![Successful for Ayana](images/test_ayana.png "Successful for Ayana")
-        ![Successful for Dariya](images/test_dariya.png "Successful for Dariya")
+        ![for Ayana](images/test_ayana.png "for Ayana")
+        ![for Dariya](images/test_dariya.png "for Dariya")
     - Failed test run:
         
         ```
