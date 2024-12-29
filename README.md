@@ -141,7 +141,8 @@ To ensure the application functions as expected, follow these steps to set up an
         
         ============================== 5 passed in 0.42s ==============================
         ```
-        
+        ![Successful for Ayana](images/test_ayana.png "Successful for Ayana")
+        ![Successful for Dariya](images/test_dariya.png "Successful for Dariya")
     - Failed test run:
         
         ```
